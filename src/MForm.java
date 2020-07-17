@@ -20,7 +20,7 @@ import javax.swing.text.BadLocationException;
 
 /**
  *
- * @author cc.ks
+ * @author RA
  */
 public class MForm extends javax.swing.JFrame {
 

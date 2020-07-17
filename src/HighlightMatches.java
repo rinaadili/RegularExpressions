@@ -6,7 +6,7 @@
 
 /**
  *
- * @author cc.ks
+ * @author RA
  */
 import java.awt.Color;
 import java.util.regex.Matcher;

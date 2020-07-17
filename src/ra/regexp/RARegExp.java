@@ -7,7 +7,7 @@ package ra.regexp;
 
 /**
  *
- * @author cc.ks
+ * @author RA
  */
 public class RARegExp {
 
